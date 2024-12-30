@@ -9,7 +9,7 @@ body {
   display: grid;
   height: 100vh;
   place-items: center;
-  background: #be2edd;
+  background: #010101;
 }
 .main_div {
   width: 400px;
@@ -47,17 +47,17 @@ body {
 }
 .social_icons a:first-child {
   margin-right: 5px;
-  background: #4267b2;
+  background: #515151;
 }
 .social_icons a:first-child:hover {
-  background: #375695;
+  background: #505050;
 }
 .social_icons a:last-child {
   margin-left: 5px;
-  background: #1da1f2;
+  background: #818181;
 }
 .social_icons a:last-child:hover {
-  background: #0d8bd9;
+  background: #808080;
 }
 form {
   margin-top: 25px;
@@ -79,7 +79,7 @@ form .input_box {
   transition: all 0.3s ease;
 }
 .input_box input:focus {
-  border-color: #be2edd;
+  border-color: #010101;
 }
 .input_box .icon {
   position: absolute;
@@ -101,7 +101,7 @@ form .option_div {
   display: flex;
   align-items: center;
   height: 15px;
-  accent-color: #be2edd;
+  accent-color: #010101;
   width: 15px;
 }
 .check_box label {
@@ -111,12 +111,12 @@ form .option_div {
 }
 .option_div .forget_div a {
   font-size: 16px;
-  color: #be2edd;
+  color: #010101;
 }
 .button input {
   margin-top: 20px;
   padding-left: 0;
-  background: #be2edd;
+  background: #010101;
   color: #fff;
   border: none;
   font-size: 20px;
@@ -125,14 +125,14 @@ form .option_div {
   transition: all 0.3s linear;
 }
 .button input:hover {
-  background: #a720c5;
+  background: #212121;
 }
 form .sign_up {
   text-align: center;
   margin-top: 35px;
 }
 .sign_up a {
-  color: #be2edd;
+  color: #010101;
 }
 form a {
   text-decoration: none;
